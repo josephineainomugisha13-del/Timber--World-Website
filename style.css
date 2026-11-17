@@ -1,0 +1,78 @@
+
+/* General styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e6;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #5c3317;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+      font-size: 40px;
+}
+
+/* Navigation styling */
+nav a {
+     background-color: #244b35;
+     text-align: center;
+     padding: 15px;
+}
+nav a {
+    color: white;
+     text-decoration: none;
+     margin: 15px;
+     font-weight: bold;
+}
+
+/* Navigation hover effect */
+nav a:hover {
+   color:  orange;
+}
+
+/* Section styling */
+section {
+    padding: 30px;
+    margin:  20px;
+    background-color: white;
+    border-radius: 10px;
+}
+section h2 {
+    color: #5c3317;
+}
+
+/* Home section */
+#home {
+     text-align: center;
+     background-color: #e6d5b8;
+     padding: 60px 20px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #244b35;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 10px;
+}
+   
+
+
+
+
+
